@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm Serginho Edouazin, an AWS Learner, and Python based in the USA.
 
-Certifications
 Python Certification – freeCodeCamp
 (Core Python, problem solving, data structures, and hands-on projects)
 
